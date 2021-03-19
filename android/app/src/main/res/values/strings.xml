@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PromoCase</string>
+    <string name="default_notification_channel_id">inner</string>
+	<string moduleConfig="true" name="CodePushDeploymentKey">YoFnAMHdcltZNpz6_JbyTwj63OoCcw9ybI1Xw</string>
+</resources>

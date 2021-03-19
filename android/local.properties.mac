@@ -1,0 +1,3 @@
+# example for MacOS, copy to local.properties
+
+sdk.dir=/Users/artemzinovev/Library/Android/sdk

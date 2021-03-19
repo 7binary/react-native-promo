@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    "@babel/plugin-proposal-export-namespace-from",
+    [
+      "module-resolver",
+      {
+        "root": ["./src/"],
+        "extensions": [".ios.js", ".android.js", ".js", ".ts", ".tsx", ".json"]
+      }
+    ]
+  ],
+  "env": {
+    "test": {
+      "plugins": ["@babel/plugin-transform-modules-commonjs"]
+    }
+  }
+}

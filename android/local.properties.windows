@@ -1,0 +1,3 @@
+# example for Windows, copy to local.properties
+
+sdk.dir=C\:\\Users\\binary\\AppData\\Local\\Android\\Sdk
